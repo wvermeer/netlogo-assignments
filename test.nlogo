@@ -1,3 +1,6 @@
+to setup
+  crt 100
+end
 @#$#@#$#@
 GRAPHICS-WINDOW
 210
