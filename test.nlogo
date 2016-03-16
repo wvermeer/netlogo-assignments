@@ -1,5 +1,5 @@
 to setup
-  crt 100
+  crt 100 [ set color blue ]
 end
 @#$#@#$#@
 GRAPHICS-WINDOW
